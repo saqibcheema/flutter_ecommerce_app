@@ -13,7 +13,7 @@ A modern, responsive Flutter e-commerce application that demonstrates best pract
 
 ## 📱 Screenshots & Demo
 
-> **Note:** Add your app screenshots here to showcase the UI/UX
+> **Note:** I add these ScreenShots soon
 > 
 > ```markdown
 > ![Home Screen](screenshots/home_screen.png)
@@ -257,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Saqib Cheema**
 - GitHub: [@saqibcheema](https://github.com/saqibcheema)
-- LinkedIn: [Connect with me](https://linkedin.com/in/saqibcheema) *(Update with actual LinkedIn URL)*
+- LinkedIn:  https://www.linkedin.com/in/saqib-cheema-77bab0297/  
 
 ## 🙏 Acknowledgments
 
